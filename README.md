@@ -1,2 +1,4 @@
 # Tic-Tac-Toe-Game
-Tic Tac Toe game made in Java. This repository contains two versions a console-based version and a GUI version using JFrame.
+
+Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3×3 grid using either an "X" or an "O". The objective of the game is to be the first player to place three of their symbols in a row, which can be horizontal, vertical, or diagonal. Players alternate turns, and only one symbol can be placed in a cell. If one player successfully aligns three of their marks, they win the game. If all cells are filled and no player has achieved a winning combination, the game ends in a draw. This project includes both a console-based and a GUI version of Tic Tac Toe, supporting two-player mode, move validation, win/draw detection, and board resetting in the GUI version. It's a simple but strategic game often used as an introductory programming project due to its clear logic and interactive design.
+
